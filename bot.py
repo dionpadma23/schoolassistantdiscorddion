@@ -13,7 +13,7 @@ pantunlist = ["Waktu daftar hari terakhir, waktu terasa banyak terbuang. Kamu ng
 pantunlist.insert (1, "Dua katak pergi bertemu, Duduk berdampingan diatas baja. Masih kupandang wajah cantikmu, Walau dari kejauhan saja")
 
 #DISCORD REUQIREMENTS (DO NOT CHANGE OR DELETE)
-TOKEN = 'Nzc3ODM1MTkwMTIyNzA5MDIz.X7JNeA.j9EwAEYC3pSDZ1hRZlT3OeMFOrw'
+TOKEN = 'token example here'
 
 client = discord.Client()
 
